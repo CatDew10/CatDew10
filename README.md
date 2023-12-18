@@ -1,6 +1,6 @@
 
 <h1 align="center">🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳!!!<h1>
- <h3>𝑰'𝒎  𝒂  𝑸𝑨  𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆  𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  𝒘𝒊𝒕𝒉  𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆  𝒊𝒏  𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏  𝒂𝒏𝒅  𝑴𝒂𝒏𝒖𝒂𝒍  𝑻𝒆𝒔𝒕𝒊𝒏𝒈 </h3>
+ <h3>𝙄'𝙢 𝙖 𝙌𝘼 𝙈𝙖𝙣𝙪𝙖𝙡 𝙖𝙣𝙙 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 </h3>
   </div><br>
   <a href="https://www.linkedin.com/in/yuliia-ra/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
