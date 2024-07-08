@@ -19,7 +19,7 @@
     </div>
   <h3>🅿🆁🅾🅵🅸🅻🅴 🆂🆃🅰🆃🅸🆂🆃🅸🅲🆂:<h3>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuliaRado&theme=prussian&hide_border=)](https://git.io/streak-stats)
+
    
 <!--
 **JuliaRado/JuliaRado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
