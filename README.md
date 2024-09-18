@@ -17,6 +17,7 @@
   <div align="center">
   <img src="https://media1.tenor.com/m/P4DcA8dP_wUAAAAC/bugcat-loading.gif">
     </div>
+    <!--
   <h3>🅿🆁🅾🅵🅸🅻🅴 🆂🆃🅰🆃🅸🆂🆃🅸🅲🆂:<h3>
   
 
