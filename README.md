@@ -3,7 +3,7 @@
  <h3>𝙄'𝙢 𝙖 𝙌𝘼 𝙈𝙖𝙣𝙪𝙖𝙡 𝙖𝙣𝙙 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 </h3>
  
   </div><br>
- // <a href="https://www.linkedin.com/in/yuliia-ra/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<!-- <a href="https://www.linkedin.com/in/yuliia-ra/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
   </a>  
  </div>
 <br><br>
